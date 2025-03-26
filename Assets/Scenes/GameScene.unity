@@ -1793,7 +1793,7 @@ MonoBehaviour:
   birdBehaviour: {fileID: 1999799321}
   playerControl: {fileID: 2089487279}
   uiControl: {fileID: 514795890}
-  pointsToWin: 29
+  pointsToWin: 10
   sfxManager: {fileID: 729386618}
 --- !u!4 &924751507
 Transform:
