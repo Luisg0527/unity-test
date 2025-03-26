@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fondoVJ_Fondo_0: -5003823994915121375
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

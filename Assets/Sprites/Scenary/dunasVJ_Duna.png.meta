@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dunasVJ_Duna_0: -6903838469248875580
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

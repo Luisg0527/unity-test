@@ -9,7 +9,7 @@ public class GameControl : MonoBehaviour
     public GameObject birdBehaviour;
     public PlayerControl playerControl;
     public UIControl uiControl;
-    public int pointsToWin = 29;
+    public int pointsToWin = 10;
     public SFXManager sfxManager;
 
     // Antes de ejecutar start, se usa player prefs para que todo tenga acceso a los puntos que se 
